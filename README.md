@@ -7,5 +7,5 @@ Variety of Python programs, highlighting fundamental concepts and practical appl
 ### Projects
 Set of Python projects, reflecting a deeper understanding of software development.
 
-#### About the Author
+## About the Author
 Muhammad Hassan Raza, an enthusiastic undergraduate Computer Science student, invites you to explore this repository.
