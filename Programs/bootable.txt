@@ -1,0 +1,27 @@
+disKpart
+
+list disk
+
+select disk 1
+
+clean
+
+create partition primary
+
+select partition 1
+
+aCTIVE
+
+format fs=ntfs quick
+
+assign
+
+exit
+
+d: cd boot
+
+cd boot
+
+bootsect.exe /nt60 e:
+
+exit
